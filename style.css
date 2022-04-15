@@ -1,0 +1,43 @@
+*{
+  border: black 1px solid
+}
+html, body{ 
+  height: 100%;
+  margin:0 ;
+  padding: 0;
+}
+.main {
+  height :100%;
+  padding :0 20%;
+  display: flex;
+}
+.left{
+  flex: 30%;
+}
+.middle{
+  flex: 1%;
+}
+.right{
+  flex: 69%;
+}
+
+.avatar{
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.picture{
+  height : 150px;
+  width :150px;
+  background-image: url("https://cdn.hk01.com/di/media/images/1605197/org/755c4f194c77583bb1cadfdb913f2b4a.png/tgq8OPX2N_F5G43N8GqcjC2PwZYrI1zvEX3lbBF95Ww?v=w1920");
+  background-size: cover;
+  border-radius: 100%;
+}
+
+.name.zh-name{
+  text-align: center;
+  color: blue;
+  font-weight:bolder;
+  box-shadow:2px 2px 2px 1px rgba(0,0,0,0.2);
+}
