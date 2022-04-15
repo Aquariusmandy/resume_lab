@@ -30,14 +30,14 @@ html, body{
 .picture{
   height : 150px;
   width :150px;
-  background-image: url("https://cdn.hk01.com/di/media/images/1605197/org/755c4f194c77583bb1cadfdb913f2b4a.png/tgq8OPX2N_F5G43N8GqcjC2PwZYrI1zvEX3lbBF95Ww?v=w1920");
+  background-image: url("https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/277816384_4695661370543528_26954825586312807_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=s-kg0-UcEYQAX9TFA22&_nc_ht=scontent-tpe1-1.xx&oh=00_AT_3g8yKWxdRd2p7QgqVT_AlRbhP2WLSs6tlC95gCN4ZcQ&oe=625DBF15");
   background-size: cover;
   border-radius: 100%;
 }
 
 .name.zh-name{
   text-align: center;
-  color: blue;
+  color: #5E6A40;
   font-weight:bolder;
-  box-shadow:2px 2px 2px 1px rgba(0,0,0,0.2);
+  /*box-shadow:3px 3px 3px 1px rgba(0,0,0,0.2);*/
 }
